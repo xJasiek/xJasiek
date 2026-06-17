@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jan – an apprentice Fachinformatiker (FIAE / Application Development) based near Hannover, Germany.<br>🔭 Currently working on: a Tiny Tina's Wonderlands mod to hide player nameplates, using pyunrealsdk/Wilma SDK, Cheat Engine, and UE4 object scanning<br>🌱 Currently learning: Python, SQL, C#, and Linux system administration – prepping for my AP1 exam in September<br>🎓 Where I learn: through my FIAE apprenticeship (graduating 2027) and self-taught through independent projects<br>🎮 When I'm not coding, I'm also doing freelance web dev work or making music
+👋 Hi, I'm Jan  an apprentice Fachinformatiker (FIAE / Application Development) based near Hannover, Germany.<br>🔭 Currently working on: a Tiny Tina's Wonderlands mod to hide player nameplates, using pyunrealsdk/Wilma SDK, Cheat Engine, and UE4 object scanning<br>🌱 Currently learning: Python, SQL, C#, and Linux system administration – prepping for my AP1 exam in September<br>🎓 Where I learn: through my FIAE apprenticeship (graduating 2027) and self-taught through independent projects<br>🎮 When I'm not coding, I'm also doing freelance web dev work or making music
 
 
 ## 🌐 Socials:
